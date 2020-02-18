@@ -27,7 +27,7 @@
     "@as-pect/assembly": "file:./packages/assembly",
     "@as-pect/cli": "file:./packages/cli",
     "@as-pect/core": "file:./packages/core",
-    "@types/node": "^13.7.1",
+    "@types/node": "^13.7.2",
     "@types/glob": "^7.1.1",
     "@types/jest": "^25.1.2",
     "assemblyscript": "0.9.2",
